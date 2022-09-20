@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 2016-30-22 12:00:00-0400
 inline: true
 ---
 
