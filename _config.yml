@@ -230,7 +230,7 @@ scholar:
   last_name: Sampson
   first_name: [Princess]
 
-  style: acm
+  style: association-for-computing-machinery
   locale: en
 
   source: /_bibliography/
