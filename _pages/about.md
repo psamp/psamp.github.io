@@ -15,9 +15,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hello, I'm a first-year PhD student in computer science at the University of Pennsylvania, advised by [Danaë Metaxa](https://metaxa.net). My research broadly lives at the intersection of justice-oriented human-computer interaction and identity/marginalization. I study the construction and use of sociotechnical systems with lenses from Black feminism and queer of color critique. 
+Hello, I'm a first-year PhD student in computer science at the University of Pennsylvania, advised by [Danaë Metaxa](https://metaxa.net). My research broadly lives at the intersection of justice-oriented human-computer interaction and identity/marginalization. I study the construction and use of sociotechnical systems with lenses from Black feminism and queer of color critique.
 
-Prior to my PhD, I graduted from Spelman College with a B.S. in Computer Science. Additionally, I interned at Adobe Research, Etsy, and Amazon in software engineering and research scientist capacities. 
+Prior to my PhD, I graduated from Spelman College with a B.S. in Computer Science. Additionally, I interned at Adobe Research, Etsy, and Amazon in software engineering and research scientist roles.
 
 Current topics of interest: advertising systems, machine learning, algorithmic "fairness" and auditing, and tech-related pedagogical and policy interventions.
 
