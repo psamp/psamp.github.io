@@ -28,3 +28,7 @@ Current topics of interest: advertising systems, machine learning, algorithmic "
 - [Danaë Metaxa](https://metaxa.net), PhD advisor at Penn
 - [Jane Hoffswell](https://jhoffswell.github.io), my mentor at Adobe Research
 - [Jaye Nias](https://www.jayenias.com), PI at Spelman College
+
+### awards & honors
+- GEM Fellowship (2022)
+- Phi Beta Kappa, Spelman College (2022)
