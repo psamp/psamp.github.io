@@ -8,7 +8,7 @@ profile:
   align: right
   image: princess-sampson.jpeg
   image_circular: false # crops the image to make it circular
-  address: pdotsamp [at] upenn [dot] edu
+  address: pdotsamp [at] seas [dot] upenn [dot] edu
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -34,3 +34,5 @@ Current topics of interest: advertising systems, machine learning, algorithmic "
 - GEM Fellowship (2022)
 - Phi Beta Kappa, Spelman College (2022)
 - Upsilon Pi Epsilon, Spelman College (2021)
+
+<a rel="me" href="https://hci.social/@princess"> </a>
