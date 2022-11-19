@@ -21,7 +21,7 @@ Prior to starting my PhD program, I graduated from Spelman College with a B.S. i
 
 Current topics of interest: advertising systems, machine learning, algorithmic "fairness" and auditing, and tech-related pedagogical and policy interventions.
 
-pdotsamp [at] seas [dot] upenn [dot] edu
+**pdotsamp [at] seas [dot] upenn [dot] edu**
 
 ***
 
