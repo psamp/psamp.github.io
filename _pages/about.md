@@ -15,11 +15,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I'm a first-year PhD student in computer science at the University of Pennsylvania, advised by [Danaë Metaxa](https://metaxa.net). My research areas include human-computer interaction and human-centered computing, with my broad interests situated in the justice-oriented mitigation of algorithmic harm. I study the construction and use of sociotechnical systems with lenses from Black feminism and queer of color critique.
+I'm a first-year PhD student in computer science at the University of Pennsylvania, advised by [Danaë Metaxa](https://metaxa.net).
 
-Prior to starting my PhD program, I graduated from Spelman College with a B.S. in Computer Science. Additionally, I interned at Adobe Research, Etsy, and Amazon in software engineering and research scientist roles.
+My broad interests include in human-computer interaction, human-centered computing, and algorithmic justice. In pursuit of mitigating algorithmic harm, I use critical theory to understand the power dynamics present in people's experiences with sociotechnical systems.
 
-Current topics of interest: advertising systems, machine learning, algorithmic "fairness" and auditing, and tech-related pedagogical and policy interventions.
+<!-- I study sociotechnical systems with lenses from Black feminism and queer of color critique, and intervene in algorithmic harm through justice-oriented tools. -->
+
+Prior to starting my PhD program, I graduated from [Spelman College](https://spelman.edu), where I studied Computer Science and Gender Studies. Additionally, I interned at Adobe Research, Etsy, and Amazon.
+
+Current focus: targeted advertising systems, algorithmic justice and auditing, and tech-related pedagogical and policy interventions.
 
 **pdotsamp [at] seas [dot] upenn [dot] edu**
 
