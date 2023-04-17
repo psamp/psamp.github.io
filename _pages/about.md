@@ -23,7 +23,7 @@ My broad interests include in human-computer interaction, human-centered computi
 
 Prior to starting my PhD program, I graduated from [Spelman College](https://spelman.edu), where I studied Computer Science and Gender Studies. Additionally, I interned at Adobe Research, Etsy, and Amazon.
 
-Current focus: targeted advertising systems, algorithmic justice and auditing, and tech-related pedagogical and policy interventions.
+<!-- Current focus: targeted advertising systems, algorithmic justice and auditing, and tech-related pedagogical and policy interventions. -->
 
 **pdotsamp [at] seas [dot] upenn [dot] edu**
 
