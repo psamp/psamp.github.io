@@ -7,13 +7,8 @@ paginate: 5
 plugins: [jekyll-paginate]
 port: 4000
 safe: true
-<<<<<<< HEAD
-url: http://jekyllt.github.io/vitae
-author: Fábio Madeira
-=======
 url: https://psampson.net
 author: Princess Sampson
->>>>>>> 07bb14e (New theme)
 
 # edit this section with your information
 # jekyllt.github.io - all contents run on /vitae/
