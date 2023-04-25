@@ -6,7 +6,7 @@ body {
     /* line-height: 21px; */
     color: rgb(48, 48, 48);
     /* border-top: 5px solid #a122a8; */
-    border-bottom: 1rem thick #a122a8;
+    border-bottom: 1rem thick #8FA750;
     /* margin-top:5em; */
     width: 100%;
 }
@@ -20,7 +20,7 @@ body {
 
 a, a:visited {
     text-decoration: underline dotted;
-    text-decoration-color: #c302e5;
+    text-decoration-color: #8FA750;
 }
 
 /* a :hover {
@@ -30,36 +30,33 @@ a, a:visited {
 } */
 
 .me {
-    border-radius: 120px 20px 120px 20px;
-    margin:auto;
+    border-radius: 20px 20px 20px 20px;
+    /* margin:auto; */
     max-width: 100%;
 }
 
-header p { margin: 0 0 0 0; }
+/* header p { margin: 0 0 0 0; } */
 
 header {
     text-align:center;
     line-height: 100%;
-    border-bottom: 1rem thick double #a122a8;
-}
-
-header > h1, section > h1 {
-    color:#a122a8;
+    /* border-bottom: 0.1rem dashed #8FA750; */
+    margin:auto;
 }
 
 header > h1 {
     /* line-height: 100%; */
     font-size: 200%;
-    margin-bottom: 20px;
+    color:#8FA750;
 }
 
-header p {
+/* header p {
     margin: 0em;
-}
+} */
 
 .bio {
     margin: 20px;
-    border-bottom: 1rem thick double #a122a8;
+    border-bottom: 1rem thick double #8FA750;
 }
 
 section > h1 {
