@@ -17,12 +17,13 @@ social: false  # includes social icons at the bottom of the page
 
 I'm a first-year PhD student in computer science at the University of Pennsylvania, advised by [Danaë Metaxa](https://metaxa.net).
 
-My broad interests include in human-computer interaction, human-centered computing, and algorithmic justice. In pursuit of mitigating algorithmic harm, I use critical theory to understand the power dynamics present in people's experiences with sociotechnical systems.
+My broad interests include human-computer interaction, human-centered computing, and algorithmic justice. I use critical theory to understand the power dynamics that shape people's experiences with algorithmic systems. My work involves critiquing algorithmic harm and building tools to empower marginalized communities, particularly at the intersection of autonomy and identity.
+
+<!-- I study power dynamics in algorithmic systems, particularly regarding autonomy and identity. -->
 
 <!-- I study sociotechnical systems with lenses from Black feminism and queer of color critique, and intervene in algorithmic harm through justice-oriented tools. -->
 
-
-Prior to starting my PhD program, I graduated from [Spelman College](https://spelman.edu), where I studied Computer Science and Gender Studies. Additionally, I interned at Adobe Research, Etsy, and Amazon.
+Prior to starting my PhD program, I graduated from [Spelman College](https://spelman.edu), where I studied Computer Science and Gender Studies. Additionally, I interned at Adobe Research, Etsy, and Amazon. 
 
 <!-- Current focus: targeted advertising systems, algorithmic justice and auditing, and tech-related pedagogical and policy interventions. -->
 
