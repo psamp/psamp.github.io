@@ -27,7 +27,7 @@ Prior to starting my PhD program, I graduated from [Spelman College](https://spe
 
 <!-- Current focus: targeted advertising systems, algorithmic justice and auditing, and tech-related pedagogical and policy interventions. -->
 
-**pdotsamp [at] seas [dot] upenn [dot] edu**
+pdotsamp [@] seas [.] upenn [.] edu
 
 <!-- ***
 

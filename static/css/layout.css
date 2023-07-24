@@ -6,7 +6,7 @@ body {
     /* line-height: 21px; */
     color: rgb(48, 48, 48);
     /* border-top: 5px solid #a122a8; */
-    border-bottom: 1rem thick #8FA750;
+    border-bottom: 1rem thick #A32CC4;
     /* margin-top:5em; */
     width: 100%;
 }
@@ -20,7 +20,7 @@ body {
 
 a, a:visited {
     text-decoration: underline dotted;
-    text-decoration-color: #8FA750;
+    text-decoration-color: #A32CC4;
 }
 
 /* a :hover {
@@ -40,23 +40,23 @@ a, a:visited {
 header {
     text-align:center;
     line-height: 100%;
-    /* border-bottom: 0.1rem dashed #8FA750; */
+    /* border-bottom: 0.1rem dashed #A32CC4; */
     margin:auto;
 }
 
 header > h1 {
     /* line-height: 100%; */
     font-size: 200%;
-    color:#8FA750;
+    color:#A32CC4;
 }
 
-/* header p {
-    margin: 0em;
-} */
+header p {
+    margin: 0px;
+}
 
 .bio {
     margin: 20px;
-    border-bottom: 1rem thick double #8FA750;
+    border-bottom: 1rem thick double #A32CC4;
 }
 
 section > h1 {
