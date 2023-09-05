@@ -5,7 +5,7 @@ permalink: /
 subtitle: they/she
 
 profile:
-  align: right
+  align: left
   image: princess-sampson.jpeg
   image_circular: false # crops the image to make it circular
   address: pdotsamp [at] seas [dot] upenn [dot] edu
@@ -15,9 +15,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I'm a first-year PhD student in computer science at the University of Pennsylvania, advised by [Danaë Metaxa](https://metaxa.net).
+I'm a second-year PhD student in computer science at the University of Pennsylvania, advised by [Danaë Metaxa](https://metaxa.net).
 
-My broad interests include human-computer interaction, human-centered computing, and algorithmic justice. I use critical theory to understand the power dynamics that shape people's experiences with algorithmic systems. My work involves critiquing algorithmic harm and building tools to empower marginalized communities, particularly at the intersection of autonomy and identity.
+My broad interests include human-computer interaction, human-centered computing, and algorithmic justice. I use critical social theory to understand the power dynamics that shape people's interactions with algorithmic systems. My work involves critiquing algorithmic harm in tandem with building tools to empower marginalized communities, particularly at the intersection of autonomy and identity.
 
 <!-- I study power dynamics in algorithmic systems, particularly regarding autonomy and identity. -->
 
