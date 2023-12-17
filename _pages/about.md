@@ -14,33 +14,10 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
+I am a second-year PhD student in Penn's Department of Computer Science, advised by Prof. [Danaë Metaxa](https://metaxa.net). My broad interest is in human-AI interaction—especially questions of platform governance, human-centered recommendation, and end-user wellbeing that emerge as social structures engage with large-scale algorithmic infrastructure. In my research, **I build tools for end-user autonomy and study how historically marginalized communities experience AI systems.**
 
-I'm a second-year PhD student in computer science at the University of Pennsylvania, advised by [Danaë Metaxa](https://metaxa.net).
+Beyond research, I serve as a chair of the Penn CIS Doctoral Association and a board member with Penn's Black Graduate Women's Association.
 
-My broad interests include human-computer interaction, human-centered computing, and algorithmic justice. I use critical social theory to understand the power dynamics that shape people's interactions with algorithmic systems. My work involves critiquing algorithmic harm in tandem with building tools to empower marginalized communities, particularly at the intersection of autonomy and identity.
-
-<!-- I study power dynamics in algorithmic systems, particularly regarding autonomy and identity. -->
-
-<!-- I study sociotechnical systems with lenses from Black feminism and queer of color critique, and intervene in algorithmic harm through justice-oriented tools. -->
-
-Prior to starting my PhD program, I graduated from [Spelman College](https://spelman.edu), where I studied Computer Science and Gender Studies. Additionally, I interned at Adobe Research, Etsy, and Amazon. 
-
-<!-- Current focus: targeted advertising systems, algorithmic justice and auditing, and tech-related pedagogical and policy interventions. -->
-
-pdotsamp [@] seas [.] upenn [.] edu
-
-<!-- ***
-
-### collaborators & mentors
-
-- [Danaë Metaxa](https://metaxa.net), PhD advisor at Penn
-- [Jane Hoffswell](https://jhoffswell.github.io), mentor at Adobe Research
-- [Jaye Nias](https://www.jayenias.com), PI at Spelman College
-- [Wallace Derricotte](https://www.linkedin.com/in/wallacederricotte), PI at Morehouse College
-
-### awards & honors
-- GEM Fellowship (2022)
-- Phi Beta Kappa, Spelman College (2022)
-- Upsilon Pi Epsilon, Spelman College (2021) -->
+Before Penn, I earned a B.S. in Computer Science (with a concentration in Gender Studies) from Spelman College. My prior work in industry spans software engineering, big data engineering, and HCI research at Adobe Research, Amazon, and Etsy.
 
 <a rel="me" href="https://hci.social/@princess"> </a>
