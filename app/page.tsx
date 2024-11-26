@@ -20,7 +20,7 @@ export default function Page() {
 
         <p>I am broadly interested in human-AI interaction, and in particular the interplay between the social structures and algorithmic infrastructure that shape daily life, work, and play at scale. In my research, I build human-centered and justice-oriented systems and study how marginalized people's experiences can inform platform governance.</p>
 
-        <p>Before Penn, I earned a BS in Computer Science from Spelman College, and conducted research with Profs. <a href="http://www.munmund.net/">Munmun De Choudhury </a>and <a href="https://www.jayenias.com/">Jaye Nias</a>. My prior work in industry spans software engineering, data engineering, and HCI research at Amazon, Etsy, and Adobe Research.</p>
+        <p>Before Penn, I earned a BS in Computer Science from Spelman College, and conducted research with Profs. Munmun De Choudhury and Jaye Nias. My prior work in industry spans software engineering, data engineering, and HCI research at Amazon, Etsy, and Adobe Research.</p>
         <h3 className="mb-10 text-2xl font-medium">updates ✨</h3>
         <ul>
           <li><h4 className="text-sm">09·03·2024</h4>Excited to spend this fall as a Google Public Policy Fellow hosted by the Center for Democracy and Technology. 🥰</li>
