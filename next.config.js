@@ -5,7 +5,9 @@ const nextConfig = {
   swcMinify: true,
   images: {
     unoptimized: true
-  }
+  },
+  assetPath: "",
+  basePath: ""
   // async rewrites() {
   //   return [
   //     {

@@ -5,7 +5,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "deploy": "next build && gh-pages -d out"
+    "deploy": "next build && gh-pages -d out --nojekyll --cname psampson.net && rm -rf ./out/"
   },
   "dependencies": {
     "@types/node": "22.5.0",

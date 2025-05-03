@@ -1,3 +1,0 @@
-User-Agent: *
-
-Sitemap: https://psampson.net/sitemap.xml
