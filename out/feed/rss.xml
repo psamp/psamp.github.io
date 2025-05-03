@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>princess sampson</title>
+        <link>https://psampson.net/</link>
+        <description>Princess Sampson is a human-AI interaction researcher and PhD student at the University of Pennsylvania.</description>
+        <lastBuildDate>Sat, 03 May 2025 01:23:27 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Feed for Node.js</generator>
+        <copyright>All rights reserved 2025, princess sampson</copyright>
+        <atom:link href="https://psampson.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Custom MDX Examples]]></title>
+            <link>https://psampson.net/blog/custom-mdx-examples</link>
+            <guid>https://psampson.net/blog/custom-mdx-examples</guid>
+            <pubDate>Sun, 11 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Nextfolio custom MDX examples.]]></description>
+            <category>Custom MDX</category>
+            <category>Web development</category>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started with Nextfolio]]></title>
+            <link>https://psampson.net/blog/getting-started</link>
+            <guid>https://psampson.net/blog/getting-started</guid>
+            <pubDate>Tue, 13 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Instructions to build and configure your Nextfolio portfolio.]]></description>
+            <category>Configuration</category>
+            <category>Web development</category>
+        </item>
+    </channel>
+</rss>
