@@ -4,7 +4,7 @@ import SocialLinks from "./social-links";
 import { metaData } from "../config";
 
 const navItems = {
-  // "/psampson_cv.pdf": { name: "cv" }
+  "": { name: "" }
 };
 
 export function Navbar() {

@@ -3,12 +3,13 @@
 @tailwind utilities;
 
 ::selection {
-  background-color: #47a3f3;
+  background-color: #24837B;
   color: #fefefe;
 }
 
 /* Light theme colors */
 :root {
+  background-color: #FFFCF0;
   --sh-class: #2d5e9d;
   --sh-identifier: #354150;
   --sh-sign: #8996a3;
@@ -22,7 +23,7 @@
 
 /* Dark theme colors */
 .dark {
-  background-color: #121212;
+  background-color: #100F0F;
   --sh-class: #4c97f8;
   --sh-identifier: white;
   --sh-sign: #8996a3;
@@ -39,7 +40,7 @@ html {
 }
 
 .prose {
-  @apply text-[#333333] dark:text-[#D4D4D4];
+  @apply text-[#100F0F] dark:text-[#CECDC3];
 }
 
 .prose .anchor {

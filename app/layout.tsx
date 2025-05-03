@@ -36,8 +36,8 @@ export const metadata: Metadata = {
     },
   },
   twitter: {
-    title: metaData.name,
-    card: "summary_large_image",
+    title: metaData.name
+    // card: "summary_large_image",
   },
   icons: {
     icon: "/favicon.ico",
@@ -76,7 +76,7 @@ export default function RootLayout({
       <body className="antialiased flex flex-col items-center justify-center mx-auto mt-2 lg:mt-8 mb-20 lg:mb-40">
         <ThemeProvider
           attribute="class"
-          defaultTheme="system"
+          defaultTheme="dark"
           enableSystem
           disableTransitionOnChange
         >
