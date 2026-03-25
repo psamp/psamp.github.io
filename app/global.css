@@ -152,3 +152,8 @@ table {
 .title {
   text-wrap: balance;
 }
+
+ul {
+  overflow-y: scroll;
+  max-height: 500px;
+}
