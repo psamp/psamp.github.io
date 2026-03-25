@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://psampson.net/</id>
     <title>princess sampson</title>
-    <updated>2025-05-03T03:09:26.999Z</updated>
+    <updated>2026-03-25T20:00:12.322Z</updated>
     <generator>Feed for Node.js</generator>
     <link rel="alternate" href="https://psampson.net/"/>
     <link rel="self" href="https://psampson.net/atom.xml"/>
     <subtitle>Princess Sampson is a human-AI interaction researcher and PhD student at the University of Pennsylvania.</subtitle>
-    <rights>All rights reserved 2025, princess sampson</rights>
+    <rights>All rights reserved 2026, princess sampson</rights>
     <entry>
         <title type="html"><![CDATA[Custom MDX Examples]]></title>
         <id>https://psampson.net/blog/custom-mdx-examples</id>
