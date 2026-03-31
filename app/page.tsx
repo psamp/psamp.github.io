@@ -13,15 +13,17 @@ export default function Page() {
         priority
       />
       <div className="prose prose-neutral dark:prose-invert">
-
         <p>I am a PhD student in the Computer and Information Science department at the University of Pennsylvania, advised by Prof. <a href="https://metaxa.net">Danaé Metaxa</a>.</p>
-        <p>Working at the intersection of <b>human-computer interaction + critical social theory</b>, I explore how power and inequality shape and are shaped by <b>sociotechnical systems</b> that mediate daily life, work, and play at scale.</p>
-        <p>My research develops human-centered, justice-oriented methods and tools to advance the <b>evaluation and auditing</b> of these systems. I also study how to reshape platform governance to center the experiences of <b>marginalized users</b>.</p>
-        <p>My work on human-AI interaction is supported by the NSF Graduate Research Fellowship Program.</p>
+        <p>At the intersection of <b>human-computer interaction + critical social theory</b>, I explore how power imbalances shape and are shaped by the <b>sociotechnical systems</b> that mediate daily life and work at scale.</p>
+        <p>My research develops human-centered, justice-oriented methods and tools to advance the <b>evaluation + auditing</b> of these systems. I also study <b>reshaping platform design + governance</b> to center marginalized users' experiences, toward systems that are <b>more just and more robust for all</b>.</p>
+
+        <p>Before Penn, I earned a BS in Computer Science from Spelman College. My work is supported by the NSF Graduate Research Fellowship.</p>
+
+        <p><small>reach out to discuss: human-AI interaction · algorithmic justice · algorithm auditing · LLM simulation · LLM evaluation · platform governance · AI accountability </small></p>
 
         <h2 className="mb-10 text-2xl font-medium">updates ✨</h2>
         <ul>
-          <li><b className="text-sm">04·2026</b> Presenting our work on LLM simulation of marginalized groups at the CHI'26 Workshop on Developing Standards and Documentation For LLMs as Simulated Researcher Participants.</li>
+          <li><b className="text-sm">04·2026</b> Sharing our work on LLM simulation of marginalized groups at the CHI'26 Workshop on Developing Standards and Documentation For LLMs as Simulated Research Participants.</li>
           <li><b className="text-sm">12·2025</b> Thank you to all tech is human for featuring the CDT AI personalization brief in their 2025 Responsible AI Impact Report!</li>
           <li><b className="text-sm">06·2025</b> Attending alt-FAccT in NYC.</li>
           <li><b className="text-sm">05·2025</b> Excited to spend this summer as an AI Research Intern @ ACLU National.</li>
@@ -35,8 +37,7 @@ export default function Page() {
           <li><b className="text-sm">04·2023</b> Our paper &quot;Representation, Self-Determination, and Refusal: Queer People’s Experiences with Targeted Advertising&quot; was accepted to FAccT23! 🎉</li>
           <li><b className="text-sm">08·2022</b> Started my PhD. Excited to be an inaugural student in the PennHCI group. 🧑🏽‍💻</li>
         </ul>
-
       </div>
-    </section >
+    </section>
   );
 }
